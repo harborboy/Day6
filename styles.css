@@ -1,0 +1,20 @@
+h3 {
+	border: solid green;
+	border-top-color: red;
+	width: 30%;
+}
+h3  { font-size: 180% }
+
+.white-with-blue-shadow {
+   text-shadow: 1px 1px 2px black, 0 0 1em blue, 0 0 0.2em blue;
+   color: white;
+   font: 1.5em Georgia, "Bitstream Charter", "URW Bookman L", "Century Schoolbook L", serif;
+}
+h3 {color: Blue}
+
+h3 {font: italic  165%/185% "Comic Sans Ms", cursive;}
+ul {font-size: 25}
+.red-text-shadow {
+   text-shadow: red 0 -2px;
+}
+ul {color:green;}
